@@ -14,7 +14,9 @@ p {
 /* Main */
 .main {
   height: 600px;
-  text-align: center; }
+  text-align: center;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg) no-repeat;
+  background-position: center center; }
 
 .main h1 {
   font-size: 150px;
