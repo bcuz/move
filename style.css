@@ -17,7 +17,8 @@ p {
   text-align: center; }
 
 .main h1 {
-  font-size: 150px; }
+  font-size: 150px;
+  margin-bottom: 0; }
 
 .main p {
   font-size: 18px; }
