@@ -32,6 +32,7 @@ p {
   color: white;}
 
 .btn-start {
+  font-size: 18px;
   text-decoration: none;
   display: inline-block;
   background-color: #1c1c1c;
