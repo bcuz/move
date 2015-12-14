@@ -21,7 +21,8 @@ p {
   height: 600px;
   text-align: center;
   background: url(https://s3.amazonaws.com/codecademy-content/projects/move/bg.jpg) no-repeat;
-  background-position: center center; }
+  background-position: center center;
+  background-size: cover}
 
 .main h1 {
   font-size: 150px;
